@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonExtender_41", "ButtonExtender\ButtonExtender_41\ButtonExtender_41.csproj", "{3E7CFC82-443D-49CA-8B00-9EA445F03C57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonExtender_42", "ButtonExtender\ButtonExtender_42\ButtonExtender_42.csproj", "{2CEAB72C-EC6E-45E7-9C85-10C29C1B65DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonExtender", "ButtonExtender\ButtonExtender\ButtonExtender.csproj", "{10CEEC56-921C-4C91-813F-6C1D34823050}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApplication", "TestApplication\TestApplication.csproj", "{2CFC22FC-B3A2-49A7-9999-BE467B1A47C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ButtonExtender_43", "ButtonExtender\ButtonExtender_43\ButtonExtender_43.csproj", "{F6692C32-9163-4933-AED0-C55FF2F4146B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E7CFC82-443D-49CA-8B00-9EA445F03C57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E7CFC82-443D-49CA-8B00-9EA445F03C57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E7CFC82-443D-49CA-8B00-9EA445F03C57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E7CFC82-443D-49CA-8B00-9EA445F03C57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CEAB72C-EC6E-45E7-9C85-10C29C1B65DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CEAB72C-EC6E-45E7-9C85-10C29C1B65DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CEAB72C-EC6E-45E7-9C85-10C29C1B65DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CEAB72C-EC6E-45E7-9C85-10C29C1B65DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10CEEC56-921C-4C91-813F-6C1D34823050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10CEEC56-921C-4C91-813F-6C1D34823050}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10CEEC56-921C-4C91-813F-6C1D34823050}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10CEEC56-921C-4C91-813F-6C1D34823050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFC22FC-B3A2-49A7-9999-BE467B1A47C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CFC22FC-B3A2-49A7-9999-BE467B1A47C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CFC22FC-B3A2-49A7-9999-BE467B1A47C0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{2CFC22FC-B3A2-49A7-9999-BE467B1A47C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CFC22FC-B3A2-49A7-9999-BE467B1A47C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CFC22FC-B3A2-49A7-9999-BE467B1A47C0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{F6692C32-9163-4933-AED0-C55FF2F4146B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6692C32-9163-4933-AED0-C55FF2F4146B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6692C32-9163-4933-AED0-C55FF2F4146B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6692C32-9163-4933-AED0-C55FF2F4146B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
