@@ -33,7 +33,7 @@ namespace TestApplication
         void timer_Tick(GT.Timer timer)
         {
             if (buttonExtender.IsPressed(5))
-                Debug.Print("Button5 is currently pressed!");
+                Debug.Print("Button 5 is currently pressed!");
         }
 
         void buttonExtender_ButtonReleased(Int16 sender, ButtonExtender.ButtonState state)
@@ -43,7 +43,7 @@ namespace TestApplication
 
         void buttonExtender_ButtonPressed(Int16 sender, ButtonExtender.ButtonState state)
         {
-            Debug.Print("Button " + sender.ToString() + state.ToString());
+            Debug.Print("Button " + sender.ToString() + " " + state.ToString());
         }
     }
 }
